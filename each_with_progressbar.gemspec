@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.description = 'Use `each_with_progressbar` to show a progressbar while iterating.'
   s.authors = ['Aaron Breckenridge']
   s.email = 'aaronbreckenridge@gmail.com'
-  s.homepage = 'https://github.com/breckenedge/each-with-progressbar'
+  s.homepage = 'https://github.com/breckenedge/each_with_progressbar'
   s.add_dependency 'ruby-progressbar'
 end
 
