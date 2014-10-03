@@ -6,12 +6,12 @@ each_with_progressbar
 Installation
 ------------
 
-    $ gem install each-with-progressbar
+    $ gem install each_with_progressbar
 
 or
 
     # Gemfile 
-    gem 'each-with-progressbar'
+    gem 'each_with_progressbar'
 
 and
 
