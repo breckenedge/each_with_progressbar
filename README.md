@@ -6,7 +6,7 @@ each_with_progressbar
 Installation
 ------------
 
-    $ gem install 'each-with-progressbar'
+    $ gem install each-with-progressbar
 
 or
 
